@@ -42,4 +42,29 @@ Indica o quão particular é o escopo do problema apresentado tanto do ponto de 
 - Médio (valor 2) - Problema conhecido mas com muitos detalhes específicos do negócio ou da organização ou baixa disponibilidade pública.
 - Alto  (valor 3) - Problema desconhecido ou muito específico no todo ou em parte crítica do sistema (negócio sigiloso, inovador ou raro).
 
-## Cálculo do GAEL e Demais Graus
+## Regras de Cálculo
+
+A regra geral é a multiplicação dos valores inteiros definidos acima (baixo = 1, médio = 2 e alto = 3) a partir da seguinte fórmula:
+
+GAEL = GIN x GDP
+
+Como GIN = GC x GL e GDP = GX x GP, também podemos calcular GAEL a partir dos quatro graus básicoa dessa forma:
+
+GAEL = GC x GL x GX x GP.
+
+GIN e GDP são enquadrados como alto/médio e baixo com base na tabela de multiplicações seguir:
+
+|       | Baixo | Médio | Alto | 
+|-------|-------|-------|------| 
+| Alto  |   3   |   6   |  9   |
+| Médio |   2   |   4   |  6   |
+| Baixo |   1   |   2   |  3   |
+
+A faixas para enquadrar os valores numéricos novamente em baixo, médio e alto são:
+
+- Resultado de multiplicação 1 ou 2 será baixo
+- Resultado de multiplicação 3 ou 4 será médio
+- Resultado de multiplicação 6 ou 9 será alto
+
+GAEL será enquadrado como muito alto, alto, medio, baixo e muito baixo com base na tabela de multiplicações a seguir:
+Dessa forma GAEL pode ter o valor numérico direto que a multiplicaçao dos quatro graus primários ou seu valor categórico que é enquadrado entre [muito baixo
