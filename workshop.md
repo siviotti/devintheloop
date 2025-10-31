@@ -32,14 +32,18 @@
 2. Tarefa 2: Uso de IA code para criar um jogo de xadrez para crianças na linguagem LUA com jogadores que precisam logar com Gov.br
 - Takeaway: Reforço da atividade anterior (Simples x Complexo), mas ambos os casos são muito conhecidos. A tarefa 2 é conhecida, mas nem todos sabem todas as regras do xadrez de forma completa. A primeira qualquer pessoa pode garantir e validar. Já a segunda além de menos provável é em uma linguagem pouco comum e com elementos de SPE que devem ser responsabilidade humana
 
-## Atividade 3 (Heurística 3 - Maximização da Eficiência) - 
+## Atividade 3 (Heurística 3 - Maximização da Eficiência) - Percepção de que às vezes é melhor fazer a tarefa ao invés de pedir pra IA
 1. Tarefa 1: Use uma IA para criar um teste de unidade para a função que decide a vitória no jogo "Pedra, Papel e Tesoura"
    - Prompt: Crie um teste de unidade para uma função de decide quem vence entre duas opções do jogo "Pedra, Papel e Tesoura"
    - Reflexão: uma vez definido uma função ou método, as IA são muito boas em fazer testes de unidade que é uma atividade repetivida (dependendo do caso)
 2. Tafefa 2: Use uma IA para gerar massa de CNPJ para testes.
    - Prompt: Crie uma lista de CNPJs com base na nova regra de CNPJ alfanuméricos. Crie 10 CNPJ válidos e 10 CNPJ inválidos (com DV inválido).
+   - Reflexão: Massa de testes é uma das atividades que mais vale a pena deixar a IA fazer. Além de repetitiva, n~]ao é crítica (não roda).
 3. Tarefa 3: Criar a função de cálculo do GAEL "na mão" e depois usando uma IA. Avalie o que foi mais eficiente.
-   - Prompt : Crie um código que calcula o GAEL a partir da seguinte especificação... ESPECIFICAÇÃO
+   - Prompt : Crie um código que calcula o GAEL a partir da seguinte especificação
    - Reflexão: Neste caso que a IA não faz ideia que que é o GAEL, é mais eficiente escrever uma especificação extensa ou faezr o código direto?
    
-## Atividade 4 (Heurística 4 - Rotina de Aprimoramento) - 
+## Atividade 4 (Heurística 4 - Rotina de Aprimoramento) - Percepção de que é necessário construir o contexto para a IA construir o código e demais artefatos
+1. Tafera 1: Crie um arquivo markdown e agora peça para uma IA implementar um código com a regra do GAEL baseado neste arquivo.
+   - Prompt : Crie um código que calcula o GAEL a partir da seguinte especificação (texto do arquivo markdown ou referência ao arquivo)
+2. 
