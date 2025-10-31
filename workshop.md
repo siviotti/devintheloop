@@ -15,9 +15,10 @@
 3. Tarefa 3: Use uma IA para criar um sistema que encontre, recomende e altera as partes de um código onde há CNPJ numérico para CNPJ alfanumérico (problema complexo)
    - Prompt: Faça um aplicativo que carrega arquivos de código fonte de um repositório, analisa o conteúdo destes arquivos procurando lugares onde o CNPJ é representado de forma numérica e indique como possíveis pontos de adaptação (PPA) para serem adaptados para CNPJ alfanumérico, fazendo a adaptação necessária no código para que o CNPJ representado aceite números com caracteres alfanuméricos.
    - Requisitos extras:
+      - O aplicativo deve organizar os artefatos de um repositório em um projeto interno e os PPAs devem ser associados aos seus artefatos de origem
+      - O aplicativo deve ter uma tela para que a adaptação do código seja feita sob demanda do desenvolvedor que avalia quais PPAs serão e quais não serão aplicadas efetivamente (
       - O aplicativo deve ser capaz de fazer a adaptação para as linguagens Python, JavaScript, Java, C# e PHP;
-      - O aplicativo deve mostrar uma tela onde o usuário escolhe quais PPAs serão efetivamente adaptadas e terão o código alterado;
-      - O aplicativo deve realizar busca, identificação e adaptação transversal e em lote do código para outras necessidades além do CNPJ alfanumérico
+      - O aplicativo deve realizar busca, identificação e adaptação transversal e em lote do código para outras necessidades além do CNPJ alfanumérico (exemplo: coesão e acoplamento, criptografia RSA)
 4. Tarefa 4: Tentar usar uma IA para criar uma função que define o GAEL a partir dos quatro graus básicos: grau de criticidade, grau de longevidade, grau de complexidade e grau de particularidade
    - Prompt: Crie um método que recebe quatro graus (criticidade, longevidade, complexidade e particularidade) e retorne o GAEL (Grau de Atenção a Entrada no Loop)
    - Reflexão: A IA não faz ideia do que se trata e gera algo sem conexão com o problema
