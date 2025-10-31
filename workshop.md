@@ -1,5 +1,10 @@
 # Workshop Dev In The Loop
 
+## Sobre o workshop
+- Objetivo: Apresentar as 4 heurísticas de Dev In The Loop através de atividades práticas
+- Público: Gestores de desenvolvimento, desenvolvedores e entusiastas de IA Code
+- Tempo 90 minutos divididos em 5 atividades
+
 ## Atividade de Abertura: Apresentação do conceito de "Dev In The Loop" e do GAEL (Grau de Atenção a Entrada no Loop)
 1. Kahoot Dev In The Loop com perguntas sobre o GAEL (uma pergunta para cada grau: Criticidade, Longevidade, Complexidade e Particularidade)
 2. Apresentação resumida Dev In The Loop
@@ -33,7 +38,7 @@
 2. Tarefa 2: Uso de IA code para criar um jogo de xadrez para crianças na linguagem LUA com jogadores que precisam logar com Gov.br
 - Takeaway: Reforço da atividade anterior (Simples x Complexo), mas ambos os casos são muito conhecidos. A tarefa 2 é conhecida, mas nem todos sabem todas as regras do xadrez de forma completa. A primeira qualquer pessoa pode garantir e validar. Já a segunda além de menos provável é em uma linguagem pouco comum e com elementos de SPE que devem ser responsabilidade humana
 
-## Atividade 3 (Heurística 3 - Maximização da Eficiência) - Percepção de que às vezes é melhor fazer a tarefa ao invés de pedir pra IA
+## Atividade 3 (Heurística 3 - Maximização da Eficiência) - Percepção de quando é mais produtivo entrar ou não no loop
 1. Tarefa 1: Use uma IA para criar um teste de unidade para a função que decide a vitória no jogo "Pedra, Papel e Tesoura"
    - Prompt: Crie um teste de unidade para uma função de decide quem vence entre duas opções do jogo "Pedra, Papel e Tesoura"
    - Reflexão: uma vez definido uma função ou método, as IA são muito boas em fazer testes de unidade que é uma atividade repetivida (dependendo do caso)
@@ -41,10 +46,16 @@
    - Prompt: Crie uma lista de CNPJs com base na nova regra de CNPJ alfanuméricos. Crie 10 CNPJ válidos e 10 CNPJ inválidos (com DV inválido).
    - Reflexão: Massa de testes é uma das atividades que mais vale a pena deixar a IA fazer. Além de repetitiva, n~]ao é crítica (não roda).
 3. Tarefa 3: Criar a função de cálculo do GAEL "na mão" e depois usando uma IA. Avalie o que foi mais eficiente.
-   - Prompt : Crie um código que calcula o GAEL a partir da seguinte especificação
+   - Prompt : Crie um código que calcula o GAEL a partir da seguinte especificação ...
    - Reflexão: Neste caso que a IA não faz ideia que que é o GAEL, é mais eficiente escrever uma especificação extensa ou faezr o código direto?
    
 ## Atividade 4 (Heurística 4 - Rotina de Aprimoramento) - Percepção de que é necessário construir o contexto para a IA construir o código e demais artefatos
-1. Tafera 1: Crie um arquivo markdown e agora peça para uma IA implementar um código com a regra do GAEL baseado neste arquivo.
+1. Tarefa 1: Crie um arquivo markdown e agora peça para uma IA implementar um código com a regra do GAEL baseado neste arquivo.
    - Prompt : Crie um código que calcula o GAEL a partir da seguinte especificação (texto do arquivo markdown ou referência ao arquivo)
-2. 
+2. Tarefa 2: Crie um arquivo markdown com um glossário enriquecido com os conceitos da plataforma PAAT e refaça a tarefa 3 da atividade 1 (CNPJ alfa).
+
+
+## Atividade de Encerramento (
+1. Kahoot Final
+  
+
