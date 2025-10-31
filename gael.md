@@ -67,4 +67,11 @@ A faixas para enquadrar os valores numéricos novamente em baixo, médio e alto 
 - Resultado de multiplicação 6 ou 9 será alto
 
 GAEL será enquadrado como muito alto, alto, medio, baixo e muito baixo com base na tabela de multiplicações a seguir:
-Dessa forma GAEL pode ter o valor numérico direto que a multiplicaçao dos quatro graus primários ou seu valor categórico que é enquadrado entre [muito baixo
+Dessa forma GAEL pode ter o valor numérico direto que a multiplicaçao dos quatro graus primários ou seu valor categórico que é enquadrado conforma abaixo:
+
+- Resultado de multiplicação 1 ou 2 será muito baixo
+- Resultado de multiplicação entre 3 e 8 será baixo
+- Resultado de multiplicação 9 ou 12 será médio
+- Resultado de multiplicação entre 18 e 36 será alto
+- Resultado de multiplicação 54 ou 81 será muito alto
+
