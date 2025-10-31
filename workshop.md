@@ -36,7 +36,7 @@
 ## Atividade 2 (Heurística 2 - Garantia da Confiança) - Percepção da necessidade de saber sobre o que se está garantindo e validando agregando segurança, privacidade e ética (SPE)
 1. Tarefa 1: Uso de IA Code para criar um jogo da velha com jogadores anônimos - todo mundo pode validar um jogo da velha
 2. Tarefa 2: Uso de IA code para criar um jogo de xadrez para crianças na linguagem LUA com jogadores que precisam logar com Gov.br
-3. SSO (TODO) Gov.Br like
+3. e-Comerce com SSO go Gov.br (segurança) e integração com cartão de crédito e entrega no endereço - criança? (LGPD) - uso dos dados pra vender mais (ética) - 
 - Takeaway: Reforço da atividade anterior (Simples x Complexo), mas ambos os casos são muito conhecidos. A tarefa 2 é conhecida, mas nem todos sabem todas as regras do xadrez de forma completa. A primeira qualquer pessoa pode garantir e validar. Já a segunda além de menos provável é em uma linguagem pouco comum e com elementos de SPE que devem ser responsabilidade humana
 
 ## Atividade 3 (Heurística 3 - Maximização da Eficiência) - Percepção de quando é mais produtivo entrar ou não no loop
