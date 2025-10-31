@@ -71,7 +71,7 @@ Dessa forma GAEL pode ter o valor numérico direto que a multiplicaçao dos quat
 
 - Resultado de multiplicação 1 ou 2 será muito baixo
 - Resultado de multiplicação entre 3 e 8 será baixo
-- Resultado de multiplicação 9 ou 12 será médio
+- Resultado de multiplicação entre 9 e 16 será médio
 - Resultado de multiplicação entre 18 e 36 será alto
 - Resultado de multiplicação 54 ou 81 será muito alto
 
