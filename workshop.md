@@ -25,7 +25,8 @@
       - O aplicativo deve ser capaz de fazer a adaptação para as linguagens Python, JavaScript, Java, C# e PHP;
       - O aplicativo deve realizar busca, identificação e adaptação transversal e em lote do código para outras necessidades além do CNPJ alfanumérico (exemplo: coesão e acoplamento, criptografia RSA)
 4. Tarefa 4: Tentar usar uma IA para criar uma função que define o GAEL a partir dos quatro graus básicos: grau de criticidade, grau de longevidade, grau de complexidade e grau de particularidade
-   - Prompt: Crie um método que recebe quatro graus (criticidade, longevidade, complexidade e particularidade) e retorne o GAEL (Grau de Atenção a Entrada no Loop)
+   - Prompt 1 (genérico): Crie um método que recebe quatro graus (criticidade, longevidade, complexidade e particularidade) e retorne o GAEL (Grau de Atenção a Entrada no Loop)
+   - Prpompt 2 (específico): use a espeficificação do GAEL
    - Reflexão: A IA não faz ideia do que se trata e gera algo sem conexão com o problema
 ### Takeaways
 1. A tarefa 1 tem um problema simples e conhecido
