@@ -1,2 +1,2 @@
-# devintheloop
-Repositório para conteúdo relacionado à abordagem "Dev In The Loop"
+# Dev In The Loop
+"Dev In The Loop" é uma abordagem heurística para ajudar na tomada de decisão de quando, como e quanto o esforço humano especializado (o Desenvolvedor) deve ser empregado no ciclo de desenvolvimento de software apoiado por inteligência artificial (IA) e quais tarefas podem ser delegadas total ou parcialmente às ferramentas de IA. O nome da abordagem vem de "Human In The Loop" que é um modelo de intervenção humana em sistemas de IA para treinar, ajustar e garantir a qualidade dos resultados. De forma similar, Dev In The Loop é uma forma de racionalizar o esforço e aumentar a efetividade do uso de recursos especializados (humanos e de IA), tanto para um projeto em particular como para uma organização com muitos cenários e atuação em escala.
