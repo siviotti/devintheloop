@@ -1,0 +1,2 @@
+# Pasta das Heurísticas
+

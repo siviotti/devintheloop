@@ -1,0 +1,1 @@
+# Heurística 3 - Maximização da Eficiência

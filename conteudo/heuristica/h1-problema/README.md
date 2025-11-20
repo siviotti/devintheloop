@@ -1,0 +1,1 @@
+# Heurística 1 - Definição do Problema

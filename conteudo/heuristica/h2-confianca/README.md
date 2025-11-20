@@ -1,0 +1,1 @@
+# Heurística 2 - Garantia da Confiança
