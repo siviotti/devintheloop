@@ -1,0 +1,3 @@
+# Glossário Factual (GLOFA)
+
+O Glossário Factual (GLOFA) é um glossário enriquecido por fatos da solução digital / software escritos especialmente para serem interpretados por IA. Também podem ser lidos e compreendidos por humanos, mas historicamente as pessoas nas equipes de desenvolvimento não gastam muito tempo lendo este tipo de artefato. Ferramentas de IA, por outro lado, consomem um glossário gigantesco sem grande esforço e assim ganham contexto mais eficaz e acurado sobre o problema e a solução a ser desenvolvida.

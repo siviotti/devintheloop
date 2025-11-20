@@ -1,6 +1,6 @@
 # Grau de Atenção à Entrada no Loop (GAEL)
 
-O Grau e Atenção à Entrada no Loop é uma ferramenta para classificação de sistemas em relação a provável necessidade de entrada no loop por parte do desenvolvedor quando da construção de um software com assistentes de IA coding. O GAEL indica maior ou menor probabilidade de ser necessário que o desenvolvedor interfira na auação da inteligência artificial na realização de tarefas do ciclo de desenvolvimento de software. O GAEL é definido a partir de outros graus descritos a seguir:
+O Grau e Atenção à Entrada no Loop é uma heurística para classificação de sistemas em relação a provável necessidade de entrada no loop por parte do desenvolvedor quando da construção e/ou manutenção de um software com assistentes de IA coding. O GAEL indica maior ou menor probabilidade de ser necessário que o desenvolvedor interfira na atuação da inteligência artificial na realização de tarefas do ciclo de desenvolvimento de software. O GAEL é definido a partir de outros graus descritos a seguir:
 
 ## Grau de Impacto ao Negócio (GIN)
 
